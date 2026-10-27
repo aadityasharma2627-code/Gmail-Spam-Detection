@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Gmail credentials
+credentials.json
+token.json
+gmail/credentials.json
+gmail/token.json
+
+# Trained Models
+model/*.pkl
+
+# Dataset
+dataset/*.csv
